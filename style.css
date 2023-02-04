@@ -68,27 +68,19 @@ footer {
 
 
 @media screen and (max-width:767px){
-  .step-box{
-    display:blok;
+ main{
+    display:block;
+    width:100%;
+    margin:50px auto;
   }
+  
+  .step-box{
+width:90%;
+margin:20px;
+  }
+
+ .step-img1{
+   background-size:90%;
+
 }
 
-.step-imag1{
-  width:100%;
-  margin:auto;
-}
-
-.step-imag2{
-  width:100%;
-  margin:auto;
-}
-
-.step-imag3{
-  width:100%;
-  margin:auto;
-}
-
-.step-text{
-  width:100%;
-  margin:auto;
-}
